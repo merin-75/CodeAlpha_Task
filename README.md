@@ -1,4 +1,4 @@
-# CodeAlpha-Internship
+# CodeAlpha_Task:1
 All tasks completed for Code Alpha Data Analyst Internship
 ## Task 2: Exploratory Data Analysis (EDA)
 
